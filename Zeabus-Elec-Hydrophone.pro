@@ -1,4 +1,4 @@
-update=Tuesday, 15 August 2017 'pmt' 12:50:45
+update=Wednesday, 23 August 2017 'pmt' 15:13:38
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,4 +60,14 @@ LibName28=contrib
 LibName29=valves
 LibName30=zeabus
 LibName31=ftdi
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 
